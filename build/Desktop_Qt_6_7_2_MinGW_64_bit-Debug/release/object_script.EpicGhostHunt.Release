@@ -1,0 +1,12 @@
+release/Game.o
+release/Ghost.o
+release/Player.o
+release/Score.o
+release/AbstractPlayer.o
+release/Main.o
+release/Player2.o
+release/qrc_res.o
+release/moc_Ghost.o
+release/moc_Player.o
+release/moc_AbstractPlayer.o
+release/moc_Player2.o

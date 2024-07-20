@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/area.png</file>
+        <file>images/area2.png</file>
+        <file>images/Ghost.png</file>
+        <file>images/ground.jpg</file>
+        <file>images/ground2.png</file>
+        <file>images/ground3.png</file>
+        <file>images/icon.png</file>
+        <file>images/initialGround.gif</file>
+        <file>headers/AbstractPlayer.h</file>
+        <file>headers/Game.h</file>
+        <file>headers/GameMenu.h</file>
+        <file>headers/Ghost.h</file>
+        <file>headers/Player.h</file>
+        <file>headers/Player2.h</file>
+        <file>headers/Score.h</file>
+        <file>sources/AbstractPlayer.cpp</file>
+        <file>sources/Game.cpp</file>
+        <file>sources/Main.cpp</file>
+        <file>sources/Ghost.cpp</file>
+        <file>sources/Player.cpp</file>
+        <file>sources/Player2.cpp</file>
+        <file>sources/Score.cpp</file>
+    </qresource>
+</RCC>
