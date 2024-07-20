@@ -1,30 +1,16 @@
 # Epic Ghost Hunt
 
-## Group 21
+- This Game is created by using QT and C++
+- You can find the game guide by clicking the "How to Play" section 
 
-The implementation of this hide-and-seek game using C++ with a GUI provides an
-engaging and entertaining gaming experience. By incorporating limited player vision, random
-ghost movements, and a scoring system, the game promotes strategic thinking and
-decision-making. The graphical user interface enhances the overall gameplay, making it
-visually appealing and intuitive for players. The development of this hide-and-seek game
-serves as an excellent demonstration of C++ programming skills, GUI implementation, and
-game design principles.
-
-### Note
-
-- We finished most of the project before the announcement about using Github.
-- We used QT for the GUI design.
-
-### Images
+### Game SS's
 
 | Main Menu | In Game | About | How to Play |
 |-----------|--------|-------|-------------|
 |![Main Menu](./assets/main_menu.png)|![In Game](./assets/ingame.png)|![About](./assets/about.png)|![How to Play](./assets/howtoplay.png)|
 
-### Contributors
-
-- Ali Emre Pamuk - 21050111021
-- Eren Alyörük - 21050111077
-- Faruk Kaplan - 21050111026
-- Mert Altekin - 21050111065
-- Şeyma Sarcan - 19050111041
+### Run
+- You can run the game directly by navigating `build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\debug` directory, then click `EpicGhostHunt.exe`
+- If you want to rebuild, you need:
+  - Version of QT > 6
+  - MinGW_64
